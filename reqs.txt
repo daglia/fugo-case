@@ -1,0 +1,27 @@
+Turkey
+Amazon Prime
+>=750 viewers rated
+>= 8.3 avg. rate
+the oldest 3 series
+
+info about series
+cast (actors and actresses)
+crew (director, writer etc.)
+
+==========
+
+to 3 seperate tables:
+
+series:
+
+id, name, overview, number_of_seasons, number_of_episodes, popularity, vote_average,
+vote_count, first_air_date, last_air_date, status
+
+people:
+
+id, name, gender, known_for_department, popularity
+
+assignments:
+
+serie_title, role (if it's in cast), assigned_for_more
+

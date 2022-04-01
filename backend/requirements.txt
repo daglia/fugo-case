@@ -1,0 +1,6 @@
+Flask==2.1.0
+Flask_Cors==3.0.10
+mysql_connector_repackaged==0.3.1
+python-dotenv==0.20.0
+requests==2.27.1
+validators==0.18.2
